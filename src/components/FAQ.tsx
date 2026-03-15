@@ -4,9 +4,9 @@ import { useState } from "react";
 
 const faqs = [
   {
-    question: "Is lil leaps free?",
+    question: "How much does lil leaps cost?",
     answer:
-      "Yes! lil leaps is free to download and use. Record clips, get reminders, and build your timeline at no cost. We offer an optional premium plan for extra features like HD export and extended family sharing.",
+      "lil leaps is $9.99 per year and comes with a one month free trial. No commitment — cancel anytime during the trial and you won't be charged a thing.",
   },
   {
     question: "What if I miss a week?",
@@ -26,7 +26,7 @@ const faqs = [
   {
     question: "Can I track more than one child?",
     answer:
-      "Yes! Add as many kids as you'd like. Each child gets their own timeline and their own timelapse. No extra charge.",
+      "Yes! You can have up to 6 kids in a lil leaps account. Each child gets their own timeline and their own timelapse.",
   },
 ];
 

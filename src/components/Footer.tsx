@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-navy text-white/45 py-12 px-6 text-center">
       <div className="mb-4">
         <Image
-          src="/logo-wide.jpg"
+          src="/logo-wide.png"
           alt="lil leaps"
           width={100}
           height={28}

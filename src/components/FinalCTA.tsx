@@ -10,7 +10,7 @@ export default function FinalCTA() {
   return (
     <section className="py-24 px-6 bg-gradient-to-b from-white to-mint-pale text-center">
       <div className="reveal inline-flex items-center gap-2 bg-coral text-white rounded-full px-5 py-2 text-sm font-extrabold mb-6 shadow-[0_4px_15px_rgba(242,112,109,0.25)]">
-        🎉 Free on the App Store
+        🎉 Try free for 1 month
       </div>
       <h2 className="reveal font-nunito text-3xl md:text-4xl font-black text-center text-navy mb-3">
         Don&apos;t miss a single leap

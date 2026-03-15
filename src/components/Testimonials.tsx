@@ -35,12 +35,12 @@ export default function Testimonials() {
         {testimonials.map((t) => (
           <div
             key={t.name}
-            className="reveal bg-mint-pale rounded-[20px] p-8 border-2 border-transparent hover:border-mint hover:-translate-y-1 transition-all"
+            className="reveal bg-mint-pale rounded-[20px] p-8 border-2 border-transparent hover:border-mint hover:-translate-y-1 transition-all flex flex-col"
           >
             <div className="text-coral text-sm tracking-widest mb-3">★★★★★</div>
-            <p className="text-sm text-text-light leading-relaxed mb-6">{t.text}</p>
+            <p className="text-sm text-text-light leading-relaxed mb-6 flex-1">{t.text}</p>
             <div className="flex items-center gap-3">
-              <div className="w-[42px] h-[42px] rounded-full bg-mint flex items-center justify-center text-xl border-2 border-white">
+              <div className="w-[42px] h-[42px] rounded-full bg-mint flex items-center justify-center text-xl border-2 border-white shrink-0">
                 {t.avatar}
               </div>
               <div>

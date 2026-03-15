@@ -46,7 +46,7 @@ export default function Hero() {
           </div>
 
           <p className="animate-fade-in-up-4 mt-3 text-xs text-text-light">
-            ✨ Free to start. No credit card needed.
+            ✨ 1 month free trial. $9.99/year after that.
           </p>
         </div>
 
