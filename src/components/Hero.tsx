@@ -50,21 +50,17 @@ export default function Hero() {
           </p>
         </div>
 
-        {/* Phone mockup */}
+        {/* App screenshot */}
         <div className="animate-fade-in-up-3 flex justify-center order-first md:order-last">
-          <div className="animate-float-phone relative w-[260px] h-[530px] md:w-[280px] md:h-[572px] bg-navy rounded-[50px] p-3 shadow-[0_30px_80px_rgba(45,59,78,0.2),0_8px_24px_rgba(45,59,78,0.1)]">
-            {/* Dynamic Island */}
-            <div className="absolute top-4 left-1/2 -translate-x-1/2 w-[90px] h-[25px] bg-black rounded-full z-10" />
-            {/* Screen */}
-            <div className="w-full h-full rounded-[38px] overflow-hidden bg-white">
-              <Image
-                src="/app-screenshot.jpg"
-                alt="lil leaps app"
-                fill
-                className="object-cover object-top rounded-[38px]"
-                priority
-              />
-            </div>
+          <div className="animate-float-phone w-[260px] md:w-[300px]">
+            <Image
+              src="/app-screenshot.jpg"
+              alt="lil leaps app"
+              width={300}
+              height={600}
+              className="w-full h-auto rounded-[32px] shadow-[0_20px_60px_rgba(45,59,78,0.15),0_8px_24px_rgba(45,59,78,0.08)]"
+              priority
+            />
           </div>
         </div>
       </div>
