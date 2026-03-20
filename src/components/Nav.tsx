@@ -25,6 +25,8 @@ export default function Nav() {
       </a>
       <a
         href="https://apps.apple.com/us/app/lil-leaps/id6746146083"
+        target="_blank"
+        rel="noopener noreferrer"
         className="bg-coral text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-coral-dark hover:-translate-y-0.5 transition-all shadow-[0_4px_15px_rgba(242,112,109,0.25)] hover:shadow-[0_6px_20px_rgba(242,112,109,0.25)]"
       >
         Try Free
