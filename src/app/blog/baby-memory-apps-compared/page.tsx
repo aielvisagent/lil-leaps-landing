@@ -285,7 +285,8 @@ export default function BabyMemoryAppsCompared() {
                 lil leaps
               </a>{" "}
               is purpose-built for one thing: creating a baby growth timelapse
-              video. Once a week, you record a 5-second clip. The app sends
+              video. Once a week, you record a 5-second clip — each one gets
+              condensed to one second in the final timelapse. The app sends
               reminders, helps frame your baby&apos;s face, and automatically
               stitches the clips into a smooth growth timelapse that you can
               watch or share anytime.

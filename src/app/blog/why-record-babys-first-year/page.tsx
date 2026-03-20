@@ -189,7 +189,8 @@ export default function WhyRecordBabysFirstYear() {
               <a href="https://apps.apple.com/us/app/lil-leaps/id6746146083">
                 lil leaps
               </a>
-              , you get a weekly reminder, record a quick clip, and the app
+              , you get a weekly reminder, record a quick 5-second clip, and the
+              app condenses each one down to a single second and
               handles the rest. No editing, no organizing, no remembering.
               After a few months, you&apos;ll have a timelapse video that
               shows your baby&apos;s growth in a way that nothing else can.

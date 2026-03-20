@@ -12,7 +12,7 @@ const steps = [
   {
     icon: "🎬",
     title: "Watch the magic",
-    description: "Your clips stitch into a timelapse you'll ugly-cry watching at 2 AM.",
+    description: "Each clip condenses to one second and stitches into a timelapse you'll ugly-cry watching at 2 AM.",
   },
 ];
 

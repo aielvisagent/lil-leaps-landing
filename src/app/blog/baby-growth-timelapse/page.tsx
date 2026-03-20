@@ -159,9 +159,10 @@ export default function BabyGrowthTimelapse() {
 
             <p>
               Behind the scenes, lil leaps handles the hard parts — it helps
-              frame your baby&apos;s face consistently, stitches the clips
-              together automatically, and produces a smooth growth timelapse
-              video that you can watch or share anytime.
+              frame your baby&apos;s face consistently, then condenses each
+              5-second clip down to just one second in the final timelapse.
+              The result is a smooth, fast-moving growth video where every
+              week of your baby&apos;s life flies by in a single second.
             </p>
 
             <p>
