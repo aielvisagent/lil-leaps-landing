@@ -17,7 +17,26 @@ const quicksand = Quicksand({
 export const metadata: Metadata = {
   title: "lil leaps — One clip a week. A lifetime of memories.",
   description:
-    "Record a 5-second clip once a week. Watch your baby grow into a beautiful timelapse. lil leaps makes it effortless.",
+    "Record a 5-second video of your baby once a week. lil leaps stitches them into a beautiful growth timelapse you'll treasure forever. Free to try on iOS.",
+  metadataBase: new URL("https://lilleaps.com"),
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "lil leaps — One clip a week. A lifetime of memories.",
+    description:
+      "Record a 5-second video of your baby once a week. lil leaps stitches them into a beautiful growth timelapse you'll treasure forever.",
+    url: "https://lilleaps.com",
+    siteName: "lil leaps",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "lil leaps — One clip a week. A lifetime of memories.",
+    description:
+      "Record a 5-second video of your baby once a week. Watch them grow into a beautiful timelapse.",
+  },
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/svg+xml" },
@@ -25,6 +44,9 @@ export const metadata: Metadata = {
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
     ],
     apple: "/apple-touch-icon.png",
+  },
+  other: {
+    "apple-itunes-app": "app-id=6746146083",
   },
 };
 
