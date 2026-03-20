@@ -20,7 +20,7 @@ export default function FinalCTA() {
       </p>
       <div className="reveal flex justify-center">
         <a
-          href="#"
+          href="https://apps.apple.com/us/app/lil-leaps/id6746146083"
           className="bg-coral text-white px-7 py-3.5 rounded-[14px] font-extrabold text-base inline-flex items-center gap-2 hover:bg-coral-dark hover:-translate-y-0.5 transition-all shadow-[0_4px_15px_rgba(242,112,109,0.25)] hover:shadow-[0_8px_25px_rgba(242,112,109,0.25)]"
         >
           <AppleIcon />

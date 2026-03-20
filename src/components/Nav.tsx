@@ -20,7 +20,7 @@ export default function Nav() {
           : ""
       }`}
     >
-      <a href="#">
+      <a href="https://apps.apple.com/us/app/lil-leaps/id6746146083">
         <Image src="/logo-wide.png" alt="lil leaps" width={120} height={36} className="h-9 w-auto" />
       </a>
       <a
