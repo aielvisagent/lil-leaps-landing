@@ -229,10 +229,11 @@ export default function BabyGrowthTimelapse() {
             <h2>What You&apos;ll End Up With</h2>
 
             <p>
-              After 6 months, you&apos;ll have about 26 clips — a roughly
-              two-minute timelapse showing your baby&apos;s transformation from
-              newborn to sitting up and babbling. After a year, it&apos;s a
-              stunning one-minute video of their entire first year of life.
+              After 6 months, you&apos;ll have about 26 clips — a
+              26-second timelapse showing your baby&apos;s transformation from
+              newborn to sitting up and babbling. After a year, that&apos;s
+              around 52 seconds of pure magic — their entire first year of
+              life in under a minute.
             </p>
 
             <p>
